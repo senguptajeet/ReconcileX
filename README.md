@@ -1,4 +1,5 @@
 # ReconcileX
+<img width="1000" height="730" alt="Annotation 2026-11-03 213139" src="https://github.com/user-attachments/assets/5320dcd3-15b7-4a31-accd-d2f2586a2552" />
 
 **A desktop-based data reconciliation tool for comparing financial and operational datasets.**
 
